@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <psf version="2.0">
 <provider id="org.eclipse.team.svn.core.svnnature">
-<project reference="1.0.1,https://github.com/dandar3/android-support-constraint-layout/tags/1.0.0,android-support-constraint-layout,f04783ef2f4a001d1a54eddc7597ffc3;https://github.com/dandar3/android-support-constraint-layout;https://github.com/dandar3/android-support-constraint-layout;branches;tags;trunk;true;d2ff0d47-c7f6-4cfc-f5ba-ce57b7db7bff;https://github.com/dandar3/android-support-constraint-layout;;false;;;0"/>
+<project reference="1.0.1,https://github.com/dandar3/android-support-constraint-layout-solver/tags/1.0.2,android-support-constraint-layout-solver,7051cb52324a001d1a54eddc7597ffc3;https://github.com/dandar3/android-support-constraint-layout-solver;https://github.com/dandar3/android-support-constraint-layout-solver;branches;tags;trunk;true;3cfe6302-f2ae-07f1-3bd0-ce57b7db7bff;https://github.com/dandar3/android-support-constraint-layout-solver;;false;;;0"/>
+<project reference="1.0.1,https://github.com/dandar3/android-support-constraint-layout/tags/1.0.2,android-support-constraint-layout,f04783ef2f4a001d1a54eddc7597ffc3;https://github.com/dandar3/android-support-constraint-layout;https://github.com/dandar3/android-support-constraint-layout;branches;tags;trunk;true;d2ff0d47-c7f6-4cfc-f5ba-ce57b7db7bff;https://github.com/dandar3/android-support-constraint-layout;;false;;;0"/>
 </provider>
 </psf>
